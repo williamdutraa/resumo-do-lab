@@ -2,7 +2,4 @@
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
 
-A intrutora apresentou as diferenças de nuvem privada, pública e híbrida. Mostrando as vantagens de cada esfera.
-Exemplificou como é abrangente o mundo de cloud e como impacto nas empresas e no dia a dia é muito significativo.
-Pontos de atenção e cuidados sobre gastos e custos indevíduos.
-Diferenças entre custo operacional e custo em ativos de capital
+A intrutora apresentou as as SLA de entrega da AWS, sobre cada SLA e o tipo de serviço que esta consumindo. Para ter muito cuidado com o orçamento e estudar o melhor tipo de servido para o seu negócio.
